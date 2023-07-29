@@ -588,3 +588,15 @@
 .footer .copyright a {
     color: var(--light);
 }
+
+a
+ {
+    
+color
+: inherit;
+    
+text-decoration
+: none; 
+/* Optional: Remove underline on the link */
+
+  }
